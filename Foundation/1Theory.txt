@@ -1,0 +1,128 @@
+24-8-2026
+
+
+VS Code 
+Node 
+Github
+
+
+
+25-8-2026
+
+
+
+MERN -> 
+MongoDB( Database ), Express , React , Node 
+
+Javascript will be compiled by -> Node
+
+HTML -> making structure 
+CSS - > Providing Design and color 
+Javascript -> Proving Dynamics to website.
+
+- keyWords  -> Reserved English Words used only for specific purpose in Javascript
+               Example : let, const , log, console, function ect;
+
+
+console.log()-> used for printing value on console
+Example:    console.log("JavaS");
+           or
+            let s=10;
+            console.log(s);
+
+
+Comments:
+Its a way to write instruction for Human, in code and these are ignored by compiler
+Writting comments is a good habit and helps those reading your code and even you in future
+
+syntax:
+// -> for Single line comment
+/* " Your Multiline comment will come here" */ -> for multiline comment
+
+
+Variables: Named Container used to store data Value, and As name hint its variable means its designed for storing data values so that when required we can change its value.
+
+how to make varaible(Also called Declaring a variable ):
+let a;
+const b=10; // must assign(give a value) when declaring using const
+
+
+
+
+26-8-2026
+
+Variable declared using let ->  can be reassigned , can not be redeclared in same block scope        
+
+Variable declared using const  -> must be assigned dureing declaration, Can't be reassigned 
+
+DataTypes IN js:
+number  - In Javascript Integers and Floating Point Numbers both comes under Number
+string  -  Any thing written inside "" or '' or ``is string in JavaScript 
+boolean -  keywords true and false are of boolean type in javascript.
+undefined - when a variabel is declared but not assigned any value its data type is undefined
+null - We can assign null keywork to any variable that we intentionally wants to keep unassigned .
+
+
+- How to check what is the dataType of any variable at any point in programm 
+  we can use 
+  typeof(variable_name)
+
+  which can also be used as 
+
+  typeof variable_name
+
+- Variables Naming 
+    can not begin with number
+    Space not allowed ( let Myvar=0; is correct but not let My var =0  )
+    Mathematical Operators (+,-,*,%) not allowed (  My/var is an invalid name for variable and My+var as well)
+    punctuation marks are not allowed as well
+    
+
+Below are some Symbles who comes under punctuation marks
+* Period (.)
+* Comma (,)
+* Question Mark (?)
+* Exclamation Point (!)
+* Colon (:)
+* Semicolon (;)
+* Apostrophe (')
+* Quotation Marks (“ ”)
+* Hyphen (-)
+* Dash (— / –)
+* Parentheses ( )
+* Ellipsis (...)
+* Brackets ([ ])
+* Braces ({ })
+* Slash (/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
