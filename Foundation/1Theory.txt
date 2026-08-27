@@ -53,7 +53,7 @@ const b=10; // must assign(give a value) when declaring using const
 
 Variable declared using let ->  can be reassigned , can not be redeclared in same block scope        
 
-Variable declared using const  -> must be assigned dureing declaration, Can't be reassigned 
+Variable declared using const  -> must be assigned during declaration, Can't be reassigned 
 
 DataTypes IN js:
 number  - In Javascript Integers and Floating Point Numbers both comes under Number
@@ -76,6 +76,7 @@ null - We can assign null keywork to any variable that we intentionally wants to
     Space not allowed ( let Myvar=0; is correct but not let My var =0  )
     Mathematical Operators (+,-,*,%) not allowed (  My/var is an invalid name for variable and My+var as well)
     punctuation marks are not allowed as well
+    reserved keywords can not be used 
     
 
 Below are some Symbles who comes under punctuation marks
