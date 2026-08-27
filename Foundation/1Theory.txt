@@ -97,6 +97,31 @@ Below are some Symbles who comes under punctuation marks
 
 
 
+27-8-2026
+
+consol.log(var1, var2,"var3");
+
+
+Arethematic Operators and operations in js
+
++(sum)
+-(difference)
+/(division)
+*(multiplication)
+%(Modulo Operator) 
+
+
+
+
+
+(PEMDAS)
+
+P - ()
+E - **
+M - (*)
+D - (/)
+A - (+)
+S - (-)
 
 
 
