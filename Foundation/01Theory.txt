@@ -25,7 +25,8 @@ Javascript -> Proving Dynamics to website.
 
 
 console.log()-> used for printing value on console
-Example:    console.log("JavaS");
+Example:    console.
+log("JavaS");
            or
             let s=10;
             console.log(s);
@@ -123,6 +124,97 @@ M - (*)
 D - (/)
 A - (+)
 S - (-)
+
+
+
+
+
+
+
+
+31-8-2026
+
+Compound assignments (+=, -=, *=, /=,%=)
+
+let a=10;
+
+a=a+10;// a+=10;
+a=a-5; // a-=5;
+a=a*7;// a*=7; 
+a=a/2;// a/=2;
+a = a%10;// a%=10;
+
+
+Math object basics (Math.round, Math.floor, Math.ceil), toFixed, parseInt(basics), parseFloat, NaN, Infinity
+
+Math.ciel(1.2),round(1.5)
+
+let a=10.789999999;
+
+a.toFixed(2);
+
+
+praseFlot('1.23');
+
+NaN
+let result = '123'/10; // NaN 
+
+let a=Infinity;
+
+Remember:
+
+That truncating at 1st invalid character is for  parseInt and ParseFloat and will return what ever it was able to make 
+
+'1.56aaaa'-> 1.56
+'123nanan80999'-> 123
+'a.1919'-> NaN
+
+And in case of Math.round() // full or none   '1.345' -> 1
+                         '12.1aka'
+                          NaN
+                             
+
+
+
+1-9-2026
+
+Math > we get some functions from Math and also some Constants
+round 
+ciel
+floor
+random
+
+
+we can use + for adding string '',"",``
+
+let str1="Rajat";
+let str2="Singh";
+console.log(str1,str2);// Rajat Singh
+
+let str3= ' ';
+str1 = str1+str3+str2;
+
+
+// if we are adding string and number it will conver number into string and then will add 2 strings
+
+
+// Comparison operators (==, === , !=, !==, <, >, <=, >=)
+= is an assignment oprator 
+
+let a = ('a'=='b'); 
+
+
+!=        loose checking condition 
+
+(5==='5')
+
+!=
+
+
+
+
+
+
 
 
 
