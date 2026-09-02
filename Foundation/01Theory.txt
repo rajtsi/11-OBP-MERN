@@ -178,11 +178,13 @@ And in case of Math.round() // full or none   '1.345' -> 1
 
 1-9-2026
 
+
 Math > we get some functions from Math and also some Constants
 round 
 ciel
 floor
-random
+random 
+
 
 
 we can use + for adding string '',"",``
@@ -196,12 +198,34 @@ str1 = str1+str3+str2;
 
 
 // if we are adding string and number it will conver number into string and then will add 2 strings
+ in all other cases than + it will tray to convert full string into a number if its faild to do so it will ne an invalid opration and hence NaN
+
+ 
+// Comparison operators (==, === , !=, !==, < , >, <=, >=)
+
+let s=  is an assignment oprator 
+
+let a = ('a'=='b');
+ 
+== (loose equality checking)-> it will only check values of variable -> if your string is full number same as number it will be true -> 5=='5', 40=='40',
+
+=== (strict equality checking) it will check bith value and type , ('Rajat'==='Rajat') -> this will give a boolearn result (true OR false)
 
 
-// Comparison operators (==, === , !=, !==, <, >, <=, >=)
-= is an assignment oprator 
+!=(loose enequality)
 
-let a = ('a'=='b'); 
+let a=5;
+let b=5;
+
+(a!==b)
+
+
+(a<b)
+a>b
+
+('Rajat'!='Singh')
+
+(5!='5')
 
 
 !=        loose checking condition 
@@ -209,6 +233,104 @@ let a = ('a'=='b');
 (5==='5')
 
 !=
+
+
+2/9/2026
+
+
+
+
+// Truthy and falsy values
+
+falsy->
+
+null
+undefined
+0,-0,
+""
+NaN
+false
+
+
+let a=null;
+
+console.log(!a);
+
+
+logical Operators
+
+OR gate   -> a||b
+AND gate  -> a&&b
+NOT gate  -> !a
+
+
+a=5, b='';
+a||b
+
+
+we evaluate from left to right whan we have same logical operator in expression;
+
+
+
+let a = 10;
+let b = 2;
+let c = a && b && 0 && 10;
+
+console.log(c);
+
+// number and string this was a false case -> Vaccant string 
+// numbr and number this was also a false condition 0
+
+
+// ''
+// 0
+
+// -> a || b || c || d
+///->  ac&& b && c 
+
+
+a = not, and, OR
+
+let a = 10 || '' && 1; 
+
+
+Preference ----->>>->>>>>>>>>>>>>>
+    Not -> AND -> OR
+
+    string and number were there my logical expression and it evaluate to false it prints ''
+    and if its number only it will print 0;
+
+
+
+
+
+let a = 10;
+let b = 2;
+let c = a && b && 0 && 10;
+
+console.log(c);
+
+// number and string this was a false case -> Vaccant string 
+// numbr and number this was also a false condition 0
+
+
+// ''
+// 0
+
+
+// -> a || b || c || d
+
+
+a = not, and, OR
+
+let a = 10 && '' || 1;     
+
+
+
+
+
+
+
 
 
 
