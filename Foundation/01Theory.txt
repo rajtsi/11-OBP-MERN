@@ -300,6 +300,8 @@ Preference ----->>>->>>>>>>>>>>>>>
     string and number were there my logical expression and it evaluate to false it prints ''
     and if its number only it will print 0;
 
+    // remember taht if we are using !(not) with string it will be evaluatedinto booleans;
+
 
 
 
@@ -323,7 +325,57 @@ console.log(c);
 
 a = not, and, OR
 
-let a = 10 && '' || 1;     
+let a = 10 && '' || 1;   
+
+
+3/9/2026      if, else if, else statements
+
+
+
+
+ 
+if( !("5" + 5) && !(5 === "5") )
+{
+console.log(a);
+a=980;
+console.log(a);
+}
+else if()
+{
+    a=0;
+}
+
+
+console.log(a);   
+
+
+
+
+if else if,
+
+nested if else
+
+let a = 90;
+
+   if(path to left )
+    {
+       turn turn left;
+    } 
+    else if()
+    {
+
+
+    } else if()
+    {}
+    else
+    {
+
+    }
+
+
+
+
+
 
 
 
