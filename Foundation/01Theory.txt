@@ -351,26 +351,26 @@ console.log(a);
 
 
 
-if else if,
+// 4-9-2026  
 
-nested if else
 
-let a = 90;
 
-   if(path to left )
+let a = '9';
+   if()
     {
-       turn turn left;
+           a=200;
     } 
-    else if()
+    else if( (typeof(a) === 'number'))
     {
-
-
-    } else if()
-    {}
-    else
-    {
-
+          a='This is a string';
     }
+console.log(a);
+
+// string comparision ->
+check one by one corresponding characters and the string for which you found less or ends up is the one lesser than other-> Indireactly the one string taht is lexicographically lesser than other is treates smaller.
+
+"AaA "
+"AAA1"
 
 
 
