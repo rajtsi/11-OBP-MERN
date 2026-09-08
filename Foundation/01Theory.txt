@@ -426,18 +426,71 @@ switch( name )
 }
 
 
+////   8-9-2026
+
+condition ? trueBlock : falseBlock/null;
+
+switch( 'yy'||0 && 'h' )
+{
+ case abc:
+ {...
+ 
+ break;
+ }
+ case abc:
+ {
+
+ }
+
+}
+
+\\Take a month number from the user (1 to 12) and print the following:
+
+1–4→Quarter 1
+5–8→Quarter 2
+9–12→Quarter 3
+If the user enters a number outside 1–12, print "Invalid month".
 
 
 
 
 
 
+Loops-1 (Unary Operators, and for loop )
+
++, - , * 
+
+a=a*2;
+
+++// increment
+-- // decrement
 
 
 
+a=a+1;
 
 
 
+let a=10;
+console.log(++a);
+a++;
+a--;
+
+++a;
+--a;
+
+
+
+// loop
+  1 10
+
+ 
+ 1-10
+ 5-10
+
+ 1,2,3,4,5,6,7,8,9,10
+
+ 
 
 
 

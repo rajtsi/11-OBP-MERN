@@ -2,17 +2,19 @@
 
 
 let a = 1;1//12
+let b=12;
 switch (10 || '0' && "00") {
     case 1:
         console.log("stop");
     case 2:
         {
-            break;
+            
         }
     case "Green":
         {
-            console.log("");
-            break;
+             //if(b===2)
+            // console.log("");
+            
         }
     default: {
         console.log("default case");
