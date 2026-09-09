@@ -1,0 +1,17 @@
+loop ->
+
+//for-> break;-> end the loop and come out from teh loop no any change or update
+// //  continue;-> just end current step of loop and go for the updating loop varaible value step
+
+// for (a; a < 200; a += 1) {
+//     console.log(a);
+
+//     if (a > 10) {
+//         continue;
+//     }
+
+//     console.log("this number is less than or eqlat t0 10");
+
+// }
+// 1, 10
+
