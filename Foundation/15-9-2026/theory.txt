@@ -1,0 +1,80 @@
+// revision
+loop
+for 
+
+while()
+
+do{
+
+}
+while()
+
+break; 
+continue;
+
+
+
+//Main Class
+
+Function declaration vs expression
+Parameters and arguments
+Return statement
+Function calling/invocation
+Simple function examples (add, multiply, etc.)
+
+let a=10;
+
+// function in javasacript 
+
+
+// A machine will do some of your job 
+
+
+function ->  we can acheave the behaviour like machine in JS code. 
+
+
+
+
+for(let c=0;)
+{
+
+}
+
+-> result 
+
+juiser => it will get a fruit  (fruit)
+=> it will return juice.
+
+
+
+-> what is function with real life analogy 
+-> syntax of function 
+-> return and non return type 
+-> function of return 
+-> function parameter and they are just placeholders-> defining a function of making a function is called function Declaration
+
+
+call <-> invokation
+let x=1;
+const y=9;
+
+
+// if there is a return statement we can get result in a variable or directly print it
+ 
+function doubleAge(a)//-> parameters
+{
+ console.log(2*a);
+}
+
+
+// doubleAge(a)
+
+
+
+ 
+ 
+
+ 
+
+
+
