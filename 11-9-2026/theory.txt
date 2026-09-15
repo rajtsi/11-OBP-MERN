@@ -1,0 +1,79 @@
+// Loop ->  helps use performing repettative task from ssome initial conditon till some ending condition 
+
+// for()
+// {
+
+// }
+
+// while()
+// {
+
+// }
+
+// do { } while ();
+
+//break;
+//continue;
+
+
+// 234
+
+// 121
+
+// 12344321
+
+// 1
+// 6
+
+// 1, 2, 3, 4, 5
+// 12
+
+// let number = 1 * 10 + 2;=12 * 10 + 3
+
+
+// let num = 0;
+// num=num*10+dig=1;
+// num=num*10+2=12;
+
+
+
+
+10000 Meter
+
+// -> KM, M, C
+
+// 128992
+// 128 km + 9 m +92 Cm
+
+// 10000
+
+// let x = 1480;
+
+// // 1 KM
+// // 400 M
+// // 80 CM 
+
+
+Question:
+You are building software for a drone that tracks its travel distance.The drone's hardware outputs the total distance in a single centimetre integer (e.g., 140080 CM).Write a JavaScript program that converts this total centimeter value into a readable format of Kilometres (KM), Meters (M), and Centimeters (CM).
+Requirements:
+Create a variable totalCm and assign it a value (e.g., 140080).
+
+Calculate the number of whole Kilometers, remaining whole Meters, and leftover Centimeters.
+
+Bonus Loop/Condition Test: If any unit is exactly 0, do not print it.
+
+For example, 100005 cm should print "1 KM, 5 CM" (skipping meters entirely).
+
+
+M -> 100 CM
+1KM -> 1000M
+x/100
+
+
+
+
+
+
+
+
