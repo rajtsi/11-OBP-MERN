@@ -17,3 +17,7 @@ function greatest(a, b, c) {
 
 
 // make a fucntion that takes a prameter days and then convert it into year month adn remainkng day and print inside function
+
+
+
+
