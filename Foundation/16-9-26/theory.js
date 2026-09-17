@@ -30,8 +30,6 @@
 // const divTest =
 //     function (a, b) { //this way of making a function is called function expression
 
-
-
 //     };
 
 // divTest = function (x) {
@@ -69,15 +67,16 @@
 // - it contains value undefined before the line of assignment  
 // the actual value will be assigned when we hit the line of assignment
 // we can reassign it like let
-// We can redeclare variabel with sam,e name when made using var keywaord unlike  let and const 
+// We can redeclare variabel with same name when made using var keywaord unlike let and const 
+
 
 // when made a function using function declaration  
-//  we can acess this function before the like of creation
+// we can acess this function before the line of creation
 // and it will work properly fine 
 // this is happening due to memory creation phase in Global execuation context
 
 // when made a function using function expression // let, const, var
-// if used var for making then you can access var before like of declaration but its value wil be undefined so if you truy to treat it a function you will get an error , you can tyest it just just printing taht var name or type of var name 
+// if used var for making then you can access var before line of declaration but its value wil be undefined so if you truy to treat it a function you will get an error , you can tyest it just just printing taht var name or type of var name 
 // if made using let or const you can not access this varaible before the line of defination 
 
 
