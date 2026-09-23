@@ -54,3 +54,5 @@ console.log(arr);
 
 
 console.log(arr.indexOf(1, 10));
+
+
