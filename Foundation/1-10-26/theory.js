@@ -170,3 +170,21 @@ let arr = [2, 4, 3, 1994, 3, 28292, 2, 27272, 26474];
 //         name: 4,
 //         place: 3
 //     }]
+
+
+// Linear Searching _> check each element
+// if our array is sorted -> then there was a clever technique 
+// where we can keep ignoring half of the remaing element and this is a fast way for searching 
+
+// we do not get the sorted array always 
+// This introduced teh need for sorting 
+// arr.sort();['a','ajajja'] // 
+// arr.sort(f1);
+
+function f1(a,b)
+{
+    //return a-b;
+    //return b-a
+    //return b.localeCompare(a);
+}
+
