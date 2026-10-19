@@ -1,6 +1,6 @@
 let arr = [
     [1, 2, 10, 4, 5, 90, 292],
-    [6, 30, 8, 9, 10],
+    [6],
     [1, 2, 13, 14, 15]
 ];
 
@@ -10,7 +10,10 @@ let arr = [
 
 // console.log(arr[i]);
 
-arr[i] / []
+// arr[i] / []
+
+let sum=0;
+
 for (let j = 0; j < arr[i].length; j++) {
     arr[i][j]
 }
@@ -20,6 +23,9 @@ for (let i = 0; i < arr.length; i++) {
         console.log(arr[i][j]);
     }
 }
+
+
+
 
 
 
