@@ -51,8 +51,8 @@ map1.set(2,value1);
 [2]
 
 
-let arr=[ [1,8],[9,9],[10,4],[-1,90],[2,8],[9,8] ];
-key as y coordinate and value as he number of points on with y as equal to key;
-{
-    8-> 
-}
+// let arr=[ [1,8],[9,9],[10,4],[-1,90],[2,8],[9,8] ];
+// key as y coordinate and value as he number of points on with y as equal to key;
+// {
+//     8-> 
+// }
