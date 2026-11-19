@@ -30,17 +30,13 @@ function makePArr(i,j,arr)
      return i1;
 }
 
-
-
 function quicksort(i,j,arr)
 {
    let myp = makePArr(i,j,arr);
-
    if(i<myp-1)
       {
          quicksort(i,myp-1,arr);
       } 
-
    if(myp+1<j)
    {
       quicksort(myp+1,j,arr);
@@ -49,5 +45,5 @@ function quicksort(i,j,arr)
    return arr;
 }
 
-
 console.log(quicksort(0,arr1.length-1,arr1));
+
